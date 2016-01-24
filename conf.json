@@ -1,0 +1,6 @@
+{
+  "repositoryDirectory": "tmp",
+  "repositoryUrl": "postgres://postgres:postgres@192.168.99.100:5432/vote?sslmode=disable",
+  "restUrl": "http://localhost:8080/api/v1/votes",
+  "debugMode": true
+}
